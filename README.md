@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pr1thv1-Kaush1k  
 - 👀 I’m interested in App Development, especially creating innovative solutions using Flutter.  
-- 🌱 I’m currently learning Flutter and improving my skills in AI and data science.  
+- 🌱 I’m currently learning Flutter and studying AI and data science at college.  
 - 💞️ I’m looking to collaborate on projects that involve app development, AI integration, or anything creative and impactful.  
 - 📫 How to reach me: prithvik.work@gmail.com | LinkedIn: https://www.linkedin.com/in/prithvi-kaushik | X: https://x.com/_prithvikaushik  
 - 😄 Pronouns: He/Him  
