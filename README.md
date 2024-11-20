@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pr1thv1-Kaush1k  
+- 👋 Hi, I’m Prithvi Kaushik.
 - 👀 I’m interested in App Development, especially creating innovative solutions using Flutter.  
 - 🌱 I’m currently learning Flutter and studying AI and data science at college.  
 - 💞️ I’m looking to collaborate on projects that involve app development, AI integration, or anything creative and impactful.  
